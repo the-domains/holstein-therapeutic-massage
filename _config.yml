@@ -1,0 +1,28 @@
+name: Holstein Therapeutic Massage
+favicon: null
+layout_spectrum: 0.7951042298227549
+typography_spectrum: 0.5815403242595494
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.16335241496562958
+  lightness: 0.2764155943877995
+  saturation: 0.7706831058021635
+  rhythmicContrast: 0.35818141233175993
+purpose: []
